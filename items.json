@@ -1,0 +1,56 @@
+{
+    "items" : [{
+        "category" :"Pizza",
+        "id" : "abc1",
+        "name" : "Cheese pizza",
+        "price" : "300",
+        "url" : "https://cdn.pixabay.com/photo/2017/12/09/08/18/pizza-3007395__480.jpg"
+    },
+
+    {
+        "category" : "Pizza",
+        "id" : "abc2",
+        "name" : "Chicken tikka pizza",
+        "price" : "200",
+        "url" : "https://thumbs.dreamstime.com/b/homemade-indian-chicken-tikka-masala-pizza-onions-cilantro-homemade-indian-chicken-tikka-masala-pizza-221590330.jpg"
+    },
+    {
+        "category" : "Pizza",
+        "id" : "abc3",
+        "name" : "Veg pizza",
+        "price" : "350",
+        "url" : "https://www.vegrecipesofindia.com/wp-content/uploads/2020/11/pizza-recipe-2-500x500.jpg"
+    },
+    {
+        "category" : "Rice Items",
+        "id" : "abc4",
+        "name" : "Biryani",
+        "price" : "550",
+        "url" : "https://images.pexels.com/photos/1624487/pexels-photo-1624487.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        "category" : "Rice Items",
+        "id" : "abc5",
+        "name" : "Mutton Biryani",
+        "price" : "640",
+        "url" : "https://www.cubesnjuliennes.com/wp-content/uploads/2020/06/Mutton-Biryani-Recipe.jpg"
+    },
+    {
+        "category" : "Cold Drinks",
+        "id" : "abc6",
+        "name" : "Mountain Dew",
+        "price" : "50",
+        "url" : "https://5.imimg.com/data5/VB/AV/HQ/SELLER-49520187/mountain-dew-cold-drink-500x500.jpg"
+    },
+    {
+        "category" : "Hot Drinks",
+        "id" : "abc7",
+        "name" : "Sting",
+        "price" : "100",
+        "url" : "https://5.imimg.com/data5/SELLER/Default/2021/5/GA/QN/UA/107425127/250ml-sting-energy-drink-500x500.jpg"
+    }
+
+    ]
+
+    
+}
